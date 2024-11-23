@@ -60,7 +60,7 @@ Use Case:<img width="1374" alt="Screenshot 2024-11-22 at 17 52 32" src="https://
 <img width="1397" alt="Screenshot 2024-11-22 at 18 01 41" src="https://github.com/user-attachments/assets/f97472eb-1557-408f-9479-e02bbea344c4">
 <img width="1391" alt="Screenshot 2024-11-22 at 17 54 03" src="https://github.com/user-attachments/assets/6be0f25d-1394-4741-a7d1-5cd844358146">
 
-![1700404927494](https://github.com/user-attachments/assets/94b3e71b-770a-4ce7-8e27-1f193b398857)
+![ScreenRecording2024-11-23at13 48 52-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e8d9a759-66e3-49cd-aaec-cbaf5f4d0f5e)
 
 
 
