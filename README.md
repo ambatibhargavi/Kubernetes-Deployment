@@ -60,12 +60,7 @@ Use Case:<img width="1374" alt="Screenshot 2024-11-22 at 17 52 32" src="https://
 <img width="1397" alt="Screenshot 2024-11-22 at 18 01 41" src="https://github.com/user-attachments/assets/f97472eb-1557-408f-9479-e02bbea344c4">
 <img width="1391" alt="Screenshot 2024-11-22 at 17 54 03" src="https://github.com/user-attachments/assets/6be0f25d-1394-4741-a7d1-5cd844358146">
 
-#output
-
-https://github-production-user-asset-6210df.s3.amazonaws.com/140686868/389206550-6faab590-8f19-44c0-b9a9-b5ab6cd2f185.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241123%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241123T151730Z&X-Amz-Expires=300&X-Amz-Signature=1102a111652e631acfc7928e812cd0d1bd9e6e8c36e604b62aac1baf57ccdf7f&X-Amz-SignedHeaders=host
-
-
-
+![1700404927494](https://github.com/user-attachments/assets/94b3e71b-770a-4ce7-8e27-1f193b398857)
 
 
 
